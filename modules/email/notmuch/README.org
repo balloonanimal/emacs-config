@@ -1,0 +1,34 @@
+#+TITLE:email/notmuch
+#+DATE:    April 20, 2021
+#+STARTUP: inlineimages
+
+* Table of Contents :TOC:
+- [[#description][Description]]
+  - [[#module-flags][Module Flags]]
+  - [[#plugins][Plugins]]
+- [[#prerequisites][Prerequisites]]
+- [[#features][Features]]
+- [[#configuration][Configuration]]
+- [[#troubleshooting][Troubleshooting]]
+
+* Description
+This module turns Emacs into email client using ~notmuch~.
+
+** Module Flags
+
+** Plugins
++ [[https://notmuchmail.org/][notmuch]]
++ [[https://github.com/org-mime/org-mime][org-mime]]
++ [[https://github.com/fuxialexander/counsel-notmuch][counsel-notmuch]]*
++ [[https://github.com/emacs-helm/helm-notmuch][helm-notmuch]]*
+
+* Prerequisites
+
+* TODO Features
++ [X] Custom ~notmuch-hello~ based on ~mu4e-dashboard~
++ [ ] Customizable ~notmuch-hello~ using an org file
++ [ ] Notmuch search all in one buffer, like in ~elfeed~
+
+* Configuration
+
+* TODO Troubleshooting
