@@ -42,13 +42,6 @@
   - [[#mail][Mail]]
   - [[#emacs-everywhere][Emacs Everywhere!]]
 
-* List of Todos :noexport:
-** TODO remove tilde-fringe
-** TODO Look at https://github.com/nmartin84/.doom.d/blob/master/config.org
-** TODO Steal agenda stuff from [[https://github.com/Townk/doom-emacs-private/blob/master/config.org]]
-** TODO Remove cursor and mode line in [[file:lisp/splash-screen.el::insert (propertize "Emacs made simple" 'face `(:foreground "#677691"))][splash screen]]
-** TODO Figure out why pakages.el need no-byte-compile flag
-
 * General Configuration (~:emacs~, ~:doom~)
 This is a section for configuration that doesn't belong to any specific doom modules.
 
